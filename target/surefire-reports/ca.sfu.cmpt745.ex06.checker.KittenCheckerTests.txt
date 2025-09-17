@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ca.sfu.cmpt745.ex06.checker.KittenCheckerTests
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 32.193 s - in ca.sfu.cmpt745.ex06.checker.KittenCheckerTests
