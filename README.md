@@ -1,5 +1,5 @@
-This is a template for a simple dataflow analysis exercise using
-[Soot](https://github.com/soot-oss/soot).
+# Dataflow Analysis
+This exercise was done as a part of Simon Fraser University's CMPT 479 course. The template was provided and only the KittenChecker.java is a product of my work.
 
 Building with Maven
 ==============================================
